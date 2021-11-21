@@ -57,6 +57,8 @@ En la carpeta de **documentacion** hemos incluido las nociones teóricas necesar
 ###
 
 # Fuentes 📋
+
+Algunos de los datos generados de prueba han sido mediante la página web de *[mockaroo](https://mockaroo.com/)*.
 ###
 
 > Emilio Sánchez García
