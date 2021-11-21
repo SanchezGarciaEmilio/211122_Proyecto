@@ -5,11 +5,11 @@
 <img align="left" alt="TypeScript" width="22px" src="https://imgr.search.brave.com/ehh7zpP11ttmGQytg8jzQ6TeWHqVIQI0lPnRsq5B7HU/fit/180/200/ce/1/aHR0cHM6Ly93d3cu/bm9kZWpzLXR5cGVz/Y3JpcHQtYXBpLmNv/bS9jdXJzby1ncmF0/aXMvdHMucG5n" />
 <img align="left" alt="node js" width="22px" src="https://imgr.search.brave.com/-QVTmC4wnNZXNLetXKutpva-0J2HgnxRCmUHdAlCZuk/fit/1200/1200/ce/1/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvbm9k/ZWpzLWljb24tbG9n/by1wbmctdHJhbnNw/YXJlbnQucG5n" />
 
-#
+###
 
 Proyecto de la gestión de clientes y empleados de un banco. Este proyecto está basado en un extracto de lo que sería una base de datos mayor, aquí tan solo usaremos unos pocos datos representativos de toda la base de datos.
 
-#
+###
 
 # Código 🔎
 
@@ -48,15 +48,15 @@ mediaGanancia
 crearPrestamo
 ```
 
-#
+###
 
 # Documentación 📝
 
 En la carpeta de **documentacion** hemos incluido las nociones teóricas necesarias para este proyecto.
 
-#
+###
 
 # Fuentes 📋
-#
+###
 
 > Emilio Sánchez García
